@@ -2,7 +2,6 @@
 
 import React from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
 import clsx from 'clsx';
 import { useState } from 'react';
 import SideNav from '../ui/portfolio/sidenav';
