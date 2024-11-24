@@ -344,10 +344,58 @@ export const Content = [
         ]
     },
     {
+        title: 'Eating etiquette',
+        summary: [
+            'The session was focused on eating etiquette also known as table manners in which we need to follow a set of guidelines when dining in a formal setting. This skill is essential for us in most cases for our own good and to put others at ease with our good table manners. Table manners are about the behavior around the table. How we hold cutleries, eat, and start a conversation during dining time all make a part of table manners. They help us to make ourselves comfortable in most of casual dining places and other formal settings.',
+            'The manners were taught in a sequential manner using practicals. The first rule is regarding the seating arrangement. If the individual is the host, He/she gestures to the guest to sit at the best seat they have. If the individual is the guest, he/she needs to wait for that signal. When sitting we should roll our shoulders backward, straighten our back and sit straight and keep remembering not to put the elbows in the table. We should switch the phone to silence and put it in the bag. When considering the bag, we should not put it on the ground level. It should be put on the upper level where it seems protected.', 
+            'Next up we discussed the dinner table setting at the beginning. The plate is arranged in the middle with a napkin. On the left side of the plate, we have the salad fork and the main course fork. On the right side of the plate, we have the soup spoon, salad fork, and the main course knife. The dessert fork and the dessert spoon are placed on the top side of the plate. On the left top corner of the plate, we have our bread plate and the butter knife. On the right top corner of the plate, we have our glasses. The glasses are arranged in sequential order. The common variety of glasses arranged are water glasses, Champaign glasses, and wine glasses.',
+            'Next, we discussed manners regarding the napkin. The preferred way is to put the napkin in our laps and use it to gently wipe our fingers and also dab our lips with it if necessary. We put the napkin on the chair when we were going to the bathroom to indicate that we would be coming back. If we were leaving the table, we would place the napkin on the left side of the table.',
+            'Next up we discussed how to eat. First, we would eat the bread with butter using butter and the butter knife. For the second course, we would have the salad using a salad fork and salad knife. We learned two ways of eating. One is American and one is the European or continental way. Then we will have the main course with the main course knife and the main course fork. After eating, we should place the fork and the knife in the position of 12:00 to 6:00 or 10:00 to 4:00. Then we would have our dessert with the dessert fork and spoon at the top of the plate. After dining, we should leave the place by placing the napkin on the left side of the table as stated. The overall dining etiquette was discussed like that and the references were also discussed afterward.'
+        ],
+        self_reflection: [
+            'I found this session a valuable lesson that discussed a topic beyond technical knowledge that was supposed to learn throughout the program. Following the dining etiquette may not be required and may not be essential in our industry with respect to the individual who wishes to work on his/her manner but it is best to learn these manners to put the best foot forward in dining places in a formal setting. I felt that it would be better if we could learn the dining manners before embarrassing ourselves in an actual situation. It is a plus point to our employability skills.'
+        ],
+        skills: [
+            {
+                name: 'Eating etiquette',
+                background: 'bg-blue-200',
+                text: 'text-blue-600'
+            },
+            {
+                name: 'Table manners',
+                background: 'bg-green-200',
+                text: 'text-green-600'
+            },
+            {
+                name: 'Communication',
+                background: 'bg-yellow-200',
+                text: 'text-yellow-600'
+            },
+            {
+                name: 'Professional skills',
+                background: 'bg-red-200',
+                text: 'text-red-600'
+            },
+            {
+                name: 'In formal manners',
+                background: 'bg-purple-200',
+                text: 'text-purple-600'
+            },
+            {
+                name: 'Formal manners',
+                background: 'bg-indigo-200',
+                text: 'text-indigo-600'
+            }
+        ],
+        exercises: [
+            '1'
+        ]
+    },
+    {
         title: 'Proposal writing',
         summary: [
             'As we are undergraduates in software engineering, we are preparing to offer ourselves to the industry that works with many types of projects in their regular workflow. They are not simulating the projects, they are actually applying their solutions to the sophisticated problems encountered when their project was not with their client in production. A project is a task or schema that requires a large amount of time, effort, and planning to complete. Before doing a project, one (usually the project manager) has to first make a project proposal. The clients may only give 5 to 10 minutes to read the project proposal therefore that document needs to be written in a manner that it lets the client or the reader accept the idea included in the project proposal in the best possible way.',
-            'There are two types of proposals. External proposal and internal proposal. The external proposal has three components. They are the executive summary, management section, and financial section. The executive summary is the place where we convince the executives that their company should get the contract. Ego, there should be a concise version of technical, managerial, and financial sections. The management section includes the capability in which we can implement the project. This includes the person’s experiences as well as their success with previous projects and so on. This also includes the proposed schedule of implementation. The financial section simply gives details about the breakdown of costs for every item in the proposal.',
+            'There are two types of proposals. External proposal and internal proposal. The external proposal has three components. They are the executive summary, management section, and financial section. The executive summary is the place where we convince the executives that their company should get the contract. Ego, there should be a concise version of technical, managerial, and financial sections. The management section includes the capability in which we can implement the project. This includes the person\'s experiences as well as their success with previous projects and so on. This also includes the proposed schedule of implementation. The financial section simply gives details about the breakdown of costs for every item in the proposal.',
             'The internal proposal helps to gain acceptance from the internal staff in the organization. An internal proposal requires planning the proposal and then writing the proposal. First, try to identify the problem statement, and the respective solutions to overcome it. Figure out whether is it possible to implement the solution with the expected resources and always think about the meaning of the solution. It is better to think outside the domain to understand the meaning of the solution though it is our own solution to see whether this solution is indeed needed. The introduction is a crucial component of this document. It should include the purpose, credibility, definition of the problem, background of the problem, significance of the problem, solution, and preview of parts or sections of the proposal. There should be a discussion. The discussion should include enough content to persuade readers or clients to accept the proposal. The three areas need to be covered to convince the reader. They are the problem, the solution, and the context.',
             'In summary, we find the importance of a project proposal and the process of writing it in a way that helps to gain acceptance from the reader in the best possible way. Next, we learned about how to write a project evaluation report for our food festival. I do not demonstrate the contents of the food festival in this chapter. That will be included in an additional chapter apart from the main ten chapters. I cannot wait to say what happened in the food festival!'
 
@@ -381,6 +429,184 @@ export const Content = [
                 background: 'bg-purple-200',
                 text: 'text-purple-600'
             },
+        ],
+        exercises: [
+            '1'
+        ]
+    },
+    {
+        title: 'Emotional Intelligence',
+        summary: [
+            'All the sessions held up to now were conducted by the lecturer in charge but today is a special day filled with didactic factors that are essential for us as students to maintain our life. That was about emotional intelligence. Emotion is how we naturally respond to a significant event and it can influence our thoughts and behavior. The more cruelly we act for an event, the worse the situation becomes intensive.',
+            'This session was done by a foreign lecturer whose name is Hubika Joshi. She indeed understood our mind states and behaviors throughout the hours we spent together. The first task was to identify the emotional states of the emojis displayed in the slide. That led us to discuss several emotions in detail. This lecture was held in a more practical session without indicating complex theories.',
+            'The most focused emotion that we talked about was Anger since it can affect more aspects of our lives. Resentment, hostility, hatred, and violence are the behaviors and actions that occur due to this emotion. Anger is not upheld alone. The actions that we take due to anger can lead to further emotions such as sadness, fear, disgust guilt, and shame. Taking sadness into consideration, grief, sorrow, self-pity, and the most famous emotion these days especially for us which is depression are the feelings that come under that emotion. Fear comes for all of us in many situations and in order to mitigate that, we need sophisticated techniques to understand the reality of the world. Fear can emerge through feelings such as anxiety, nervousness, wariness, phobia, and panic. They are emotions that are indeed menacing for us but why don\'t we talk about the wholesome positive thoughts? Enjoyment, for example, is a wholesome feeling that we feel that makes us feel good in many ways. Happiness, joy, and contentment are positive feelings that come under enjoyment. There are more definitions of Love that connect people and reinforce relationships. Love can fortify feelings such as acceptance, trust, infatuation, and obsession. Another emotion that comes under that category is surprise. Feelings can be indicated as shock, astonishment, wonder, and offensive. We cannot say that surprise is entirely related to positive feelings. It has both positive and negative effects.',
+            'Next up our main topic is to discuss emotional leakage. They are the facts that reveal hidden feelings in a person in a particular situation. The hidden feelings can be revealed through voice, breathing, skin, sweating, energy level, and facial expression. People are more likely to hide their feelings at certain times but if we look at them closely, we can find them through their sources of revealing them.',
+            'Emotional intelligence was our next topic in which we talked about how we should maintain our emotional state. Emotional intelligence is about identifying and recognizing our own emotions while also understanding other\'s emotions. At this point, the lecturer said a quote that gave insights for all of us. “Always have a goal-oriented mind instead of delving into emotions”. This took me over and caused me to think about why we suffer from emotions and what is the purpose after all. Another instruction that the lecture provided us was to always have a problem-solving attitude. It made sense because if we look at the problem with the expectation of finding the best solution for it, the possibility of suffering from any emotions might be less. Mindfulness is a good strategy for mastering emotional intelligence and others can be indicated such as social skills, self-awareness, self-regulation, empathy, and motivation.',
+            'The final minutes were spent with an activity to write about our favorite emotions and least favorite emotions. Overall the things that helped us to rethink ourselves were tremendous and the best effort that the lecturer made to convince us to improve our emotional state was priceless. When I went to her to appreciate his work in the session, the only thing she said was “The session would be great if you could actually apply the things on yourself in the future”.'
+
+        ],
+        self_reflection: [
+            'I wish I had this session long before so that I could survive most of the scenarios in the university due to emotions and actions. However, this session led me to think of myself again to identify the actual purpose for which emotions get to react throughout myself. Some emotions like love and enjoyment are required for us as human beings but emotions such as anger, sadness, and fear are more likely to bring us to the negative aspects and they cause us to destroy our positive regular behavior. Most of the time we delve into harder problems, which can be subject-oriented or self-oriented, especially in academic activities but this session, showed us how to maintain our work, identify our own emotions, and instruct how to mitigate them in several ways. Most of the time we stress and the whole state can be seen through our facial expressions and energy. This is obvious when we step into the campus in the early in the morning. However negative emotions can be entirely removed from overleaves if we always have our minds consistent in a goal-oriented and problem-solving state.'
+        ],
+        skills: [
+            {
+                name: 'Emotional intelligence',
+                background: 'bg-blue-200',
+                text: 'text-blue-600'
+            },
+            {
+                name: 'Controlling emotions',
+                background: 'bg-green-200',
+                text: 'text-green-600'
+            },
+            {
+                name: 'Mitigation techniques',
+                background: 'bg-yellow-200',
+                text: 'text-yellow-600'
+            },
+            {
+                name: 'Real-world projects',
+                background: 'bg-red-200',
+                text: 'text-red-600'
+            },
+            {
+                name: 'Mindfulness',
+                background: 'bg-purple-200',
+                text: 'text-purple-600'
+            },
+            {
+                name: 'Problem-solving state',
+                background: 'bg-indigo-200',
+                text: 'text-indigo-600'
+            },
+
+        ],
+        exercises: [
+            '1'
+        ]
+    },
+    {
+        title: 'Food Festival',
+        summary: [
+            'The food festival is considered one of the major events conducted twice a year unraveling the opportunities of a wider domain encompassing various food demonstrations and entertainment. The event was held on the 8th of October 2024 at the 12th hall after one week of preparation on notice as a demonstration of 12 groups in the badge. Taking the group into consideration, the main objective included perceiving the fundamental aspects of properly organizing and planning an event, time management, planning a budget, setting up stalls, teamwork, and managing money. It did not include overall objectives such as fundraising but as the general objective, the main goal of the food festival was to provide a platform that enables students to showcase a variety of cuisines through stalls while gaining profits for specific purposes of individuals.',
+            'The food stall preparation including decorations required a considerable amount of time in order to give a better experience for the patrons. Even though a description of the food festival was given initially, the time and the venue were not informed. They were informed one week before the event. Therefore, it led groups to work on a critical situation where they needed to dynamically change their existing plan executions and apply them appropriately.',
+            'The “SERENDIPITY ENCLAVE” which was the name of the team\'s stall indeed gave a better experience to the patrons within the university through three types of food. Namely, they are Churros, cookies, and Hot chocolate drinks. Selling them in a competitive environment with other teams was challenging. However, plan execution and overall objectives of the members were sequentially achieved as time spent during the food festival. Since students frequently engage with technology-related projects and tasks, this type of event gave students a tremendous opportunity to harness the potential to organize an event like food festivals with collaborations.'
+
+        ],
+        self_reflection: [
+            'In our stall, I contributed my self for preparing the cookies and designing and implementing some parts of the decoration. Since we had to prepare them within one week, the insights into time management and teamwork were tremendous. Indeed, I was not the person who made the cookies. It was my sister and I would like to utilize this time as an opportunity to show my gratitude towards her for making that possible within one day. This entire event improved my soft skills such as time management, planning budget, teamwork, communication skills, and managing money. After the food festival, we were given to write the assessment report for that, and there we could find what were the challenges and drawbacks that we had to face throughout the time. The challenges such as being unable to make the Churros in time gave us insights into how important is it to have the knowledge and experience before getting to it. When sharing the profits among the group members we could see what actual teamwork looks like. Overall, I find this event a tremendous opportunity to harness our soft skills which are very essential in the industry. It is indeed necessary to have the technological skills 100% but it is not only about the technical knowledge and these kinds of events reflect that fact intensively.'
+        ],
+        skills: [
+            {
+                name: 'Time management',
+                background: 'bg-blue-200',
+                text: 'text-blue-600'
+            },
+            {
+                name: 'Communication skills',
+                background: 'bg-green-200',
+                text: 'text-green-600'
+            },
+            {
+                name: 'Budget planning',
+                background: 'bg-yellow-200',
+                text: 'text-yellow-600'
+            },
+            {
+                name: 'Team collaboration',
+                background: 'bg-red-200',
+                text: 'text-red-600'
+            },
+            {
+                name: 'Leadership skills',
+                background: 'bg-purple-200',
+                text: 'text-purple-600'
+            },
+            {
+                name: 'Organizational skills',
+                background: 'bg-indigo-200',
+                text: 'text-indigo-600'
+            },
+            {
+                name: 'Presentation skills',
+                background: 'bg-pink-200',
+                text: 'text-pink-600'
+            },
+            {
+                name: 'Problem-solving skills',
+                background: 'bg-gray-200',
+                text: 'text-gray-600'
+            },
+            {
+                name: 'Adaptability',
+                background: 'bg-purple-200',
+                text: 'text-purple-600'
+            },
+
+        ],
+        exercises: [
+            '1'
+        ]
+    },
+    {
+        title: 'Negotiation skills',
+        summary: [
+            'Today\'s session is also done by a guest lecturer whose name is Shenal Rajakarunanayake. The most remarkable characteristic I found through him is his better communication skills. I have never seen such an ability to keep the class more focused while he was teaching. The main topic of today was Negotiation Skills. A sudden question appeared at the beginning. He asked what are the times you have negotiated with anyone to achieve something you need. Lots of answers were given with scenarios from students\' childhood to the present. This led us to discuss the definition of negotiation. Negotiation is a discussion to settle and reach an agreement between two parties. A proper negotiation would make both happy. In the real world, everyone is struggling to achieve their regular needs therefore, having negotiation skills is important to achieve our success. Negotiation skills are essential in business, personal relationships, and conflict resolution. Conflict resolutions are based on the perceptions of violation or a disagreement between two people.',
+            'Next up we did an activity that is to identify the scenario that we should give the most priority in terms of negotiation. In this discussion, we also talked about a Win-Win situation where two people win who were trying to negotiate. In order to have a better negotiation, we have to have self-awareness, warmth, competence, open body language, and active listening. All together we define mastering a charismatic personality.',
+            'Next up we discussed how to prepare for negotiation. Before doing a critical negotiation such business-related one, we have to gather information. In this stage, we study the contrasting parties in depth to identify what they are trying to achieve and how far is it going to impact the success that we are going to achieve through the negotiation. We identify their interest concerning our interests. Next, we set up goals that we need to achieve through the negotiation. The soft skills that we need to master are cultural sensitivity, economic literacy, legal knowledge, and ethical consideration. To have an effective negotiation, it is required to achieve what we need without harming others. When negotiating, we have to always remember to develop the way in which it lets us communicate with someone properly. Clear objectives include prioritizing the goals, quantifying what is needed, and knowing the walk-away point. Knowing the walk-away point is very important because without identifying it, the negotiation can lead to a critical conflict in which both parties would suffer from the negative effects that occurred from that negotiation.',
+            'Next up we discussed the types of negotiations and one type that we discussed more was the Best Alternative To a Negotiated Agreement also known as BATNA. In this strategy, we always prepare for a plan B. It is a risk mitigation approach. Plan B is made not only because of the possibility of failing plan A, but it also gives better confidence to negotiate under plan A. After these discussions, the most interesting part of this workshop was conducted. We were grouped and asked to negotiate under a scenario of a restaurant. Unfortunately, we could not present it with the time constraints but the insights we got from our peers were tremendous.'
+
+        ],
+        self_reflection: [
+            'In university life, I have come across different situations in which I had to negotiate with academic staff and students. This session helped me rethink whether the way I did those negotiations was correct or not. Some of the negotiations have failed without proper preparation and some of them are still straggled. However, I learned how to be confident and keep consistent self-awareness in order to achieve what I need without harming others. Before this session, I felt negotiation was a bad thing to do by looking at it with a conflict perspective but after this session, I figured out that negotiation skills are essential in order to prevail in this challenging environment. In the next semester, we are applying for internships. Negotiation skills are very important when dealing with business matters in actual industry hence conducting such a workshop gave us tremendous knowledge to have a skillset among our soft skills that are to be reflected in our workspace in the future.'
+        ],
+        skills: [
+            {
+                name: 'Negotiation skills',
+                background: 'bg-blue-200',
+                text: 'text-blue-600'
+            },
+            {
+                name: 'Cultural sensitivity',
+                background: 'bg-green-200',
+                text: 'text-green-600'
+            },
+            {
+                name: 'Economic literacy',
+                background: 'bg-yellow-200',
+                text: 'text-yellow-600'
+            },
+            {
+                name: 'Legal knowledge        ',
+                background: 'bg-red-200',
+                text: 'text-red-600'
+            },
+            {
+                name: 'Ethical considerations',
+                background: 'bg-purple-200',
+                text: 'text-purple-600'
+            },
+            {
+                name: 'Communication skills',
+                background: 'bg-indigo-200',
+                text: 'text-indigo-600'
+            },
+            {
+                name: 'Effectiveness ',
+                background: 'bg-pink-200',
+                text: 'text-pink-600'
+            },
+            {
+                name: 'Setting goals',
+                background: 'bg-gray-200',
+                text: 'text-gray-600'
+            },
+            {
+                name: 'Empathy',
+                background: 'bg-purple-200',
+                text: 'text-purple-600'
+            },
+
         ],
         exercises: [
             '1'

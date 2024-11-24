@@ -47,6 +47,14 @@ const links = [
         name: '10',
         href: '/portfolio/view/10',
     },
+    {
+      name: '11',
+      href: '/portfolio/view/11',
+    },
+    {
+      name: '12',
+      href: '/portfolio/view/12',
+    }
 ];
 
 export default function NavLinks({isToggle}: {isToggle: boolean}) {
