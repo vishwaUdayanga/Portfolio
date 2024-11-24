@@ -29,8 +29,8 @@ export default function Page() {
             <div className='mt-7'>
                 <h1 className='text-4xl font-bold mb-5 text-slate-700'>Exercises</h1>
                 <div className='flex flex-wrap gap-4'>
-                    {Content[0].exercises.map((item, index) => (
-                        <Image key={index} src={`/portfolio/exercises/${item}.png`} width={300} height={300} className='rounded-lg' alt={`Exercise | ${item}`}/>
+                    {Content[0].resources.map((item, index) => (
+                        <Image key={index} src={`/portfolio/resources/${item}`} width={300} height={300} className='rounded-lg object-cover' alt={`Resources | ${item}`}/>
                     ))}
                 </div>
             </div>

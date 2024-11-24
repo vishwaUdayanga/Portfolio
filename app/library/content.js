@@ -84,15 +84,15 @@ export const Content = [
                 text: 'text-indigo-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '1-1.png'
         ]
     },
     {
         title: 'CV and Cover letter writing',
         summary: [
             'Today\'s topic was to learn how to properly craft a curriculum vitae. A common mistake that students make when sending their CVs for jobs is not tailoring their CV respectively. Tailoring a CV means the student should craft a CV relevant to the specific jobs that they are applying for. It showcases the most relevant qualifications and experiences. Tailoring helps to let recruiters know that we have researched their company and identified their needs. Researching the company and job description to identify keywords and requirements is important. Including these keywords and skills that match the requirements would increase the chance of passing through an automated applicant tracking system (ATS). Finally, we learned about the major sections that should be included in our CVs. The essential components for a CV are personal information, professional summary, work experience, education, skills, and achievements and awards.',
-            'Another major fact when sending a CV is to write a cover letter that introduces the CV. It is an extension of the CV and reflects our knowledge regarding the employers’ needs. Therefore, the post activity included an activity related to cover letter writing. The lecturer was also able to conduct a review and feedback session to provide instructions on already created CVs.'
+            'Another major fact when sending a CV is to write a cover letter that introduces the CV. It is an extension of the CV and reflects our knowledge regarding the employers\' needs. Therefore, the post activity included an activity related to cover letter writing. The lecturer was also able to conduct a review and feedback session to provide instructions on already created CVs.'
         ],
         self_reflection: [
             'I was frustrated when comparing the state of the first CV I made for an internship which was rejected versus the state after learning this lesson leaving my awareness of how to craft a proper CV. Taking us into consideration, preparing a better CV is a crucial factor in finding opportunities for internships in the upcoming semester.',
@@ -110,8 +110,8 @@ export const Content = [
                 text: 'text-green-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '2-1.png',
         ]
     },
     {
@@ -163,8 +163,12 @@ export const Content = [
                 text: 'text-pink-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '3-1.png',
+            '3-2.png',
+            '3-3.png',
+            '3-4.png',
+            '3-5.png',
         ]
     },
     {
@@ -203,8 +207,9 @@ export const Content = [
                 text: 'text-red-600'
             },
         ],
-        exercises: [
-            '1'
+        resources: [
+            '4-1.png',
+            '4-2.png',
         ]
     },
     {
@@ -260,8 +265,13 @@ export const Content = [
                 text: 'text-gray-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '5-1.png',
+            '5-2.png',
+            '5-3.png',
+            '5-4.png',
+            '5-5.png',
+            '5-6.png'
         ]
     },
     {
@@ -297,8 +307,8 @@ export const Content = [
                 text: 'text-red-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '6-1.png',
         ]
     },
     {
@@ -339,8 +349,9 @@ export const Content = [
                 text: 'text-purple-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '7-1.png',
+            '7-2.png',
         ]
     },
     {
@@ -387,8 +398,8 @@ export const Content = [
                 text: 'text-indigo-600'
             }
         ],
-        exercises: [
-            '1'
+        resources: [
+            '8-1.png',
         ]
     },
     {
@@ -430,8 +441,8 @@ export const Content = [
                 text: 'text-purple-600'
             },
         ],
-        exercises: [
-            '1'
+        resources: [
+            '9-1.png',
         ]
     },
     {
@@ -481,8 +492,8 @@ export const Content = [
             },
 
         ],
-        exercises: [
-            '1'
+        resources: [
+            '10-1.png'
         ]
     },
     {
@@ -544,8 +555,13 @@ export const Content = [
             },
 
         ],
-        exercises: [
-            '1'
+        resources: [
+            '11-1.jpg',
+            '11-2.jpg',
+            '11-3.jpg',
+            '11-4.jpg',
+            '11-5.jpg',
+            '11-6.jpg',
         ]
     },
     {
@@ -608,8 +624,8 @@ export const Content = [
             },
 
         ],
-        exercises: [
-            '1'
+        resources: [
+            '12-1.png'
         ]
     },
 ]

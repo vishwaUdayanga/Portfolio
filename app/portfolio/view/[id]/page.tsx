@@ -31,10 +31,18 @@ export default function Page({params} : {params : {id: string}}) {
                 ))}
             </div>
             <div className='mt-7'>
-                <h1 className='text-4xl font-bold mb-5 text-slate-700'>Exercises</h1>
+                <h1 className='text-4xl font-bold mb-5 text-slate-700'>Resources</h1>
                 <div className='flex flex-wrap gap-4'>
-                    {Content[id-1].exercises.map((item, index) => (
-                        <Image key={index} src={`/portfolio/exercises/${item}.png`} width={300} height={300} className='rounded-lg' alt={`Exercise | ${item}`}/>
+                    {Content[id-1].resources.map((item, index) => (
+                        <div className="relative w-72 h-72" key={index}>
+                            <Image
+                            src={`/portfolio/resources/${item}`}
+                            alt={`Resources | ${item}`}
+                            layout="fill"
+                            className="object-contain rounded-lg"
+                            />
+                        </div>
+                        // <Image key={index} src={`/portfolio/resources/${item}`} width={300} height={300} className='rounded-lg' alt={`Resources | ${item}`}/>
                     ))}
                 </div>
             </div>

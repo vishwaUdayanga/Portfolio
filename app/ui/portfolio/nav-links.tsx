@@ -54,6 +54,10 @@ const links = [
     {
       name: '12',
       href: '/portfolio/view/12',
+    },
+    {
+      name: '13',
+      href: '/portfolio/gallery',
     }
 ];
 
