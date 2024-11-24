@@ -25,6 +25,26 @@ const images = [
     {
         src: '/portfolio/gallery/6.jpg',
         alt: 'Gallery | 6'
+    },
+    {
+        src: '/portfolio/gallery/7.jpg',
+        alt: 'Gallery | 7'
+    },
+    {
+        src: '/portfolio/gallery/8.jpg',
+        alt: 'Gallery | 8'
+    },
+    {
+        src: '/portfolio/gallery/9.jpg',
+        alt: 'Gallery | 9'
+    },
+    {
+        src: '/portfolio/gallery/10.jpg',
+        alt: 'Gallery | 10'
+    },
+    {
+        src: '/portfolio/gallery/11.jpg',
+        alt: 'Gallery | 11'
     }
 ]
 export default function Gallery() {
